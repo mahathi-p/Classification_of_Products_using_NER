@@ -1,0 +1,210 @@
+,Brand,Color_type,Print_type,Prod_spec,Category
+0,Canon,Color,N o n e,N o n e,Printer and Scanner
+1,Canon,Color,N o n e,Wireless,Printer and Scanner
+2,HP,Monochrome,LaserJet,Wireless,Printer and Scanner
+3,HP,Monochrome,LaserJet,N o n e,Printer and Scanner
+4,HP,Color,DeskJet,Wireless,Printer and Scanner
+5,Canon,Color,N o n e,N o n e,Printer and Scanner
+6,HP,Color,DeskJet,Wireless,Printer and Scanner
+7,HP,N o n e,DeskJet,N o n e,Printer and Scanner
+8,Epson,Color,N o n e,Wireless,Printer and Scanner
+9,Brother,Color,N o n e,Wireless,Printer and Scanner
+10,Canon,Monochrome,N o n e,N o n e,Printer and Scanner
+11,Canon,Color,N o n e,N o n e,Printer and Scanner
+12,HP,Color,N o n e,N o n e,Printer and Scanner
+13,Epson,Color,N o n e,N o n e,Printer and Scanner
+14,HP,Color,N o n e,Wireless,Printer and Scanner
+15,HP,Monochrome,LaserJet,N o n e,Printer and Scanner
+16,HP,N o n e,DeskJet,N o n e,Printer and Scanner
+17,HP,Color,DeskJet,N o n e,Printer and Scanner
+18,Epson,Color,N o n e,Wireless,Printer and Scanner
+19,HP,N o n e,DeskJet,N o n e,Printer and Scanner
+20,HP,Color,N o n e,Wireless,Printer and Scanner
+21,HP,Color,INKTANK,Wireless WIRELESS,Printer and Scanner
+22,HP,Color,N o n e,N o n e,Printer and Scanner
+23,Epson,Color,N o n e,N o n e,Printer and Scanner
+24,HP,Color,InkTank,Wireless,Printer and Scanner
+25,HP,Color,Inktank,N o n e,Printer and Scanner
+26,HP,Color,InkTank,N o n e,Printer and Scanner
+27,HP,Color,N o n e,N o n e,Printer and Scanner
+28,Epson,Color,N o n e,N o n e,Printer and Scanner
+29,Epson,Color,N o n e,Wireless,Printer and Scanner
+30,Epson,Color,N o n e,N o n e,Printer and Scanner
+31,Epson,Color,N o n e,Wireless,Printer and Scanner
+32,Brother,Color,N o n e,N o n e,Printer and Scanner
+33,Canon,Color,N o n e,N o n e,Printer and Scanner
+34,Samsung,Monochrome,N o n e,N o n e,Printer and Scanner
+35,Canon,Color,N o n e,Wireless,Printer and Scanner
+36,HP,Color,DeskJet,Wireless,Printer and Scanner
+37,Brother,Monochrome,N o n e,Wireless,Printer and Scanner
+38,Canon,N o n e,Inkjet,N o n e,Printer and Scanner
+39,Canon,Color,N o n e,N o n e,Printer and Scanner
+40,Canon,Color,N o n e,N o n e,Printer and Scanner
+41,HP,Color,N o n e,Wireless,Printer and Scanner
+42,Canon,Color,N o n e,Wireless,Printer and Scanner
+43,Epson,Color,N o n e,Wireless,Printer and Scanner
+44,Brother,Color,N o n e,N o n e,Printer and Scanner
+45,Samsung,Color,N o n e,N o n e,Printer and Scanner
+46,Canon,Color,N o n e,N o n e,Printer and Scanner
+47,Epson,Color,N o n e,Wireless,Printer and Scanner
+48,Brother,Color,N o n e,N o n e,Printer and Scanner
+49,Xerox,Monochrome,N o n e,Wireless,Printer and Scanner
+50,HP,Color,N o n e,N o n e,Printer and Scanner
+51,Epson,Color,N o n e,Wireless,Printer and Scanner
+52,HP,Monochrome,LaserJet,Wireless,Printer and Scanner
+53,HP,Color,DeskJet,N o n e,Printer and Scanner
+54,Samsung,Monochrome,N o n e,N o n e,Printer and Scanner
+55,HP,Monochrome,N o n e,N o n e,Printer and Scanner
+56,Brother,Color,N o n e,N o n e,Printer and Scanner
+57,HP,Color,DeskJet InkTank,Wireless,Printer and Scanner
+58,HP,Monochrome,N o n e,N o n e,Printer and Scanner
+59,HP,Color,N o n e,N o n e,Printer and Scanner
+60,Epson,Color,InkTank,N o n e,Printer and Scanner
+61,Brother,Color,N o n e,N o n e,Printer and Scanner
+62,HP,Color,N o n e,N o n e,Printer and Scanner
+63,Brother,Color,N o n e,Wireless,Printer and Scanner
+64,HP,Color,Inktank,N o n e,Printer and Scanner
+65,Epson,Color,N o n e,N o n e,Printer and Scanner
+66,Brother,Color,N o n e,N o n e,Printer and Scanner
+67,Canon,Color,N o n e,N o n e,Printer and Scanner
+68,HP,Color,InkTank,N o n e,Printer and Scanner
+69,Canon,Color,N o n e,N o n e,Printer and Scanner
+70,Brother,Color,N o n e,Wireless,Printer and Scanner
+71,Canon,Color,Laser,N o n e,Printer and Scanner
+72,Epson,N o n e,N o n e,N o n e,Printer and Scanner
+73,HP,Monochrome,N o n e,N o n e,Printer and Scanner
+74,PANTUM,Monochrome,N o n e,N o n e,Printer and Scanner
+75,Brother,Color,N o n e,N o n e,Printer and Scanner
+76,HP,Color,InkTank,N o n e,Printer and Scanner
+77,PANTUM,Monochrome,N o n e,N o n e,Printer and Scanner
+78,Samsung,Monochrome,N o n e,N o n e,Printer and Scanner
+79,Epson,Color,N o n e,Wireless,Printer and Scanner
+80,Canon,Color,N o n e,Wireless,Printer and Scanner
+81,HP,Monochrome,LaserJet,N o n e,Printer and Scanner
+82,Epson,Color Monochrome,InkTank EcoTank,N o n e,Printer and Scanner
+83,HP,Monochrome,LaserJet,N o n e,Printer and Scanner
+84,HP,Color,N o n e,N o n e,Printer and Scanner
+85,Brother,Color,N o n e,N o n e,Printer and Scanner
+86,HP,Monochrome,DeskJet,Wireless,Printer and Scanner
+87,Brother,Color,N o n e,Wireless,Printer and Scanner
+88,Samsung,Monochrome,N o n e,N o n e,Printer and Scanner
+89,Canon,Color,N o n e,N o n e,Printer and Scanner
+90,PANTUM,Monochrome,N o n e,N o n e,Printer and Scanner
+91,HP,Monochrome,LaserJet,N o n e,Printer and Scanner
+92,Panasonic,Monochrome,N o n e,N o n e,Printer and Scanner
+93,Epson,N o n e,Inkjet,N o n e,Printer and Scanner
+94,Brother,Color Monochrome,Laser,N o n e,Printer and Scanner
+95,PANTUM,Monochrome,Laser,N o n e,Printer and Scanner
+96,Canon,Color,N o n e,N o n e,Printer and Scanner
+97,Epson,Color,InkTank,N o n e,Printer and Scanner
+98,Epson,Color,InkTank EcoTank,Wi-Fi,Printer and Scanner
+99,RICHO,Color,N o n e,Wireless,Printer and Scanner
+100,Canon,Color,N o n e,N o n e,Printer and Scanner
+101,Samsung,Monochrome,N o n e,Wireless,Printer and Scanner
+102,HP,Color,INKTANK,WIRELESS,Printer and Scanner
+103,HP,Color,N o n e,N o n e,Printer and Scanner
+104,Canon,Color,N o n e,N o n e,Printer and Scanner
+105,pantum,Monochrome,N o n e,N o n e,Printer and Scanner
+106,HP,Color,N o n e,N o n e,Printer and Scanner
+107,HP,Color,N o n e,N o n e,Printer and Scanner
+108,Canon,Color,N o n e,N o n e,Printer and Scanner
+109,HP,Color,OfficeJet,N o n e,Printer and Scanner
+110,HP,Color,N o n e,N o n e,Printer and Scanner
+111,Brother,Color,Inktank,N o n e,Printer and Scanner
+112,HP,Color,N o n e,Wireless,Printer and Scanner
+113,Canon,Color,InkTank,Wireless,Printer and Scanner
+114,Epson,Color,InkTank,N o n e,Printer and Scanner
+115,RICHO,Color,N o n e,Wireless,Printer and Scanner
+116,HP,Color,N o n e,N o n e,Printer and Scanner
+117,HP,Monochrome,N o n e,Wireless,Printer and Scanner
+118,HP,Color,DeskJet,Wireless,Printer and Scanner
+119,HP,N o n e,N o n e,N o n e,Printer and Scanner
+120,HP,Color,OfficeJet,N o n e,Printer and Scanner
+121,Epson,Color,N o n e,Wireless,Printer and Scanner
+122,Epson,Color,N o n e,N o n e,Printer and Scanner
+123,RICHO,Monochrome,N o n e,Wireless,Printer and Scanner
+124,HP,Monochrome,N o n e,Wireless,Printer and Scanner
+125,HP,Color,N o n e,N o n e,Printer and Scanner
+126,HP,Color,LaserJet,N o n e,Printer and Scanner
+127,HP,Color,N o n e,N o n e,Printer and Scanner
+128,RICHO,Monochrome,N o n e,Wireless,Printer and Scanner
+129,HP,Color,N o n e,N o n e,Printer and Scanner
+130,HP,Color,LaserJet,N o n e,Printer and Scanner
+131,HP,Color,N o n e,N o n e,Printer and Scanner
+132,HP,Color,InkTank,N o n e,Printer and Scanner
+133,Epson,Color,N o n e,N o n e,Printer and Scanner
+134,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+135,Canon,Color,Inkjet,Wireless,Printer and Scanner
+136,HP,Monochrome,N o n e,Wireless,Printer and Scanner
+137,HP,Color,N o n e,N o n e,Printer and Scanner
+138,Epson,Color,N o n e,N o n e,Printer and Scanner
+139,HP,Monochrome,N o n e,N o n e,Printer and Scanner
+140,HP,Color,N o n e,Wireless,Printer and Scanner
+141,Canon,Color,N o n e,N o n e,Printer and Scanner
+142,Canon,Color,N o n e,N o n e,Printer and Scanner
+143,HP,Color,N o n e,Wireless,Printer and Scanner
+144,Canon,Color,N o n e,N o n e,Printer and Scanner
+145,kantado,Monochrome,LaserJet,N o n e,Printer and Scanner
+146,Ricoh,Monochrome,N o n e,N o n e,Printer and Scanner
+147,HP,Color,Laser,N o n e,Printer and Scanner
+148,HP,Monochrome,N o n e,Wireless,Printer and Scanner
+149,HP,Monochrome,LaserJet,Wireless,Printer and Scanner
+150,Canon,Color,N o n e,N o n e,Printer and Scanner
+151,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+152,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+153,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+154,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+155,Epson,Color,N o n e,N o n e,Printer and Scanner
+156,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+157,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+158,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+159,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+160,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+161,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+162,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+163,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+164,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+165,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+166,Goodluck,Color,N o n e,N o n e,Printer and Scanner
+167,HP,Monochrome,DeskJet,Wireless,Printer and Scanner
+168,HP,Color,LaserJet,N o n e,Printer and Scanner
+169,Canon,Color,N o n e,N o n e,Printer and Scanner
+170,HP,Monochrome,N o n e,Wireless,Printer and Scanner
+171,Canon,Color,N o n e,N o n e,Printer and Scanner
+172,HP,Monochrome,INKTANK,Wireless WIRELESS,Printer and Scanner
+173,HP,Color,N o n e,N o n e,Printer and Scanner
+174,HP,Monochrome,LaserJet,Wireless,Printer and Scanner
+175,HP,Color,N o n e,N o n e,Printer and Scanner
+176,WOL3D,Color,N o n e,N o n e,Printer and Scanner
+177,Epson,Monochrome,N o n e,Wireless,Printer and Scanner
+178,Marvel,Color,N o n e,N o n e,Printer and Scanner
+179,HP,Color,Laserjet,Wireless,Printer and Scanner
+180,Flashforge,Color,N o n e,N o n e,Printer and Scanner
+181,HP,Monochrome,DeskJet,Wireless,Printer and Scanner
+182,Epson,Monochrome,InkTank,N o n e,Printer and Scanner
+183,HP,Color,N o n e,Wireless,Printer and Scanner
+184,Canon,Color,N o n e,Wireless,Printer and Scanner
+185,Canon,Color,N o n e,Wireless,Printer and Scanner
+186,Canon,Color,N o n e,Wireless,Printer and Scanner
+187,Samsung,Monochrome,N o n e,N o n e,Printer and Scanner
+188,Canon,Color,N o n e,N o n e,Printer and Scanner
+189,HP,Color,DeskJet,Wireless,Printer and Scanner
+190,HP,Monochrome,Laser,N o n e,Printer and Scanner
+191,Canon,Color,Laser,N o n e,Printer and Scanner
+192,Samsung,Color,N o n e,N o n e,Printer and Scanner
+193,Canon,Color,N o n e,N o n e,Printer and Scanner
+194,HP,Color,DeskJet,Wireless,Printer and Scanner
+195,HP,Color,N o n e,Wireless,Printer and Scanner
+196,HP,Color,N o n e,N o n e,Printer and Scanner
+197,Epson,Color,EcoTank,Wi-Fi,Printer and Scanner
+198,Canon,Color,N o n e,Wireless,Printer and Scanner
+199,HP,Color,LaserJet,N o n e,Printer and Scanner
+200,Canon,Color,N o n e,N o n e,Printer and Scanner
+201,Canon,Color,N o n e,N o n e,Printer and Scanner
+202,HP,Monochrome,LaserJet,N o n e,Printer and Scanner
+203,HP,Color,LaserJet,Wireless,Printer and Scanner
+204,Epson,Color,InkTank,N o n e,Printer and Scanner
+205,HP,Color,Laserjet,N o n e,Printer and Scanner
+206,PRASH,Color Monochrome,N o n e,N o n e,Printer and Scanner
+207,Canon,Color,N o n e,N o n e,Printer and Scanner
+208,Samsung,Monochrome,N o n e,N o n e,Printer and Scanner
