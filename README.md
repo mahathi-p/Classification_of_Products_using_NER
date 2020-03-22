@@ -4,7 +4,7 @@
 
 ### 1. Data
 
-As there is no a proper dataset, data was scraped from the flipkart website. For most of the products the entities were taken as those features listed along with the product. These entities included Brand Name, Model, RAM size, Capacity(harddisk), HDMI(monitors) and so on. Some entities were extracted from the Product Name. For example, the first word of each Product Name as the Brand.
+As there is no a proper dataset, data was scraped from the flipkart website. For this BeautifulSoup was used.For most of the products the entities were taken as those features listed along with the product. These entities included Brand Name, Model, RAM size, Capacity(harddisk), HDMI(monitors) and so on. Some entities were extracted from the Product Name. For example, the first word of each Product Name as the Brand.
 
 The data of the following was scraped:
 - Laptops
