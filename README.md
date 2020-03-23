@@ -65,7 +65,8 @@ For this, the data had to tweaked with to get the 'content' in the format. The e
 ### 3. Training the NER model
 
 A blank Spacy model was created and the entities are updated with the entities extracted above. 
-In order to check if the Spacy Model was working, first entities of the Laptop were updated and test. This code can be found in /train_NER/Laptop.ipynb
+In order to check if the Spacy Model was working, first entities of the Laptop were updated and test. This code can be found in /Spacy_NER/train_NER_Laptop.ipynb.
+The complete model for all the products is there in /Spacy_NER/train_NER.ipynb.
 
 
 
