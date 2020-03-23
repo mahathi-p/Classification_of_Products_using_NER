@@ -1,0 +1,417 @@
+Brand,Model,Processor,RAM,OS,Disk,Dim,Category
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,EliteBook,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Dell,Vostro,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,Linux/Ubuntu,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Zbook,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+MSI,Modern,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Envy,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Celeron Dual Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (5th Gen),8 GB DDR3 ,64 bit Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Lenovo,ThinkPad X Series,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Lenovo,Ideapad,AMD APU Dual Core A6 Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Aspire,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Nitro,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,EliteBook,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Latitude,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,Linux/Ubuntu,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,ROG,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Notebook,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,ThinkPad T Series,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Vostro,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,Linux/Ubuntu,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,ProBook,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+MSI,Modern,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Lenovo,ThinkPad X Series,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Celeron Dual Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (5th Gen),8 GB DDR3 ,64 bit Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Lenovo,Ideapad,AMD APU Dual Core A6 Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Nitro,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Envy,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Aspire,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,ProBook,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,Linux/Ubuntu,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Asus,ROG,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Envy,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Acer,Nitro,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Predator,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,2 TB HDD|256 GB SSD,43.94 cm (17.3 inch) ,Laptop
+MSI,Modern,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,TUF Gaming,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Predator,Intel Core i5 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,43.94 cm (17.3 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Notebook,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,38.1 cm (15 inch) ,Laptop
+Lenovo,Yoga,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+Acer,Aspire,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Acer,Nitro,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,AMD APU Dual Core A6 Processor,4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (10th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+HP,Zbook,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,AMD Ryzen 5 Quad Core Processor (2nd Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,ProBook,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (6th Gen),4 GB DDR4 ,D,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+MSI,Gaming,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|1 TB SSD,43.94 cm (17.3 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,ZenBook,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,ProBook,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,G,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Envy,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+Acer,TravelMate,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,43.94 cm (17.3 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Zbook,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,AMD APU Dual Core A6 Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Zbook,AMD APU Dual Core A6 Processor,4 GB DDR4 ,D,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (7th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Acer,Nitro,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Predator,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Aspire,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,2 TB HDD|256 GB SSD,43.94 cm (17.3 inch) ,Laptop
+Asus,Vivo,AMD APU Quad Core A12 Processor,8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,AMD Ryzen 5 Quad Core Processor (2nd Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Asus,ZenBook,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Zbook,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,D,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Envy,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+HP,Pavilion,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,ZenBook,Intel Core i9 Processor (9th Gen),32 GB DDR4 ,64 bit Windows 10,1 TB SSD,39.62 cm (15.6 inch) Touchscreen ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|8 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Acer,Nitro,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,EliteBook,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Asus,TUF Gaming,AMD Ryzen 5 Quad Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (10th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,ProBook,AMD APU Dual Core A9 Processor,4 GB DDR4 ,64 bit Windows 10,500 GB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,AMD Ryzen 7 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Microsoft,Surface,Intel Core i7 Processor (7th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,34.29 cm (13.5 inch) Touchscreen ,Laptop
+Asus,ZenBook,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+MSI,Gaming,Intel Core i7 Processor (9th Gen),32 GB DDR4 ,64 bit Windows 10,1 TB SSD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Acer,Nitro,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Legion,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Yoga,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+HP,Pavilion,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (10th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+HP,Pavilion,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i5 Processor (7th Gen),8 GB DDR3 ,64 bit Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Microsoft,SurfacePro,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,31.24 cm (12.3 inch) Touchscreen ,Laptop
+Acer,Predator,Intel Core i7 Processor (7th Gen),16 GB DDR4 ,64 bit Windows 10,2 TB HDD|256 GB SSD,43.94 cm (17.3 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+MSI,Modern,Intel Core i7 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Yoga,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Asus,TUF Gaming,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Endl,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Aspire,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+HP,EliteBook,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Asus,ZenBook,Intel Core i7 Processor (9th Gen),32 GB DDR4 ,64 bit Windows 10,1 TB SSD,39.62 cm (15.6 inch) Touchscreen ,Laptop
+MSI,Gaming,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,43.94 cm (17.3 inch) ,Laptop
+Asus,ZenBook,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,ZenBook,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB SSD,35.56 cm (14 inch) ,Laptop
+Dell,Inspiron,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,ROG,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Nitro,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Aspire,Intel Celeron Dual Core Processor,2 GB DDR3 ,Linux/Ubuntu,500 GB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,ProBook,Intel Celeron Dual Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i9 Processor (8th Gen),16 GB DDR3 ,Mac,512 GB SSD,39.12 cm (15.4 inch) ,Laptop
+Lenovo,Legion,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB SSD,38.1 cm (15 inch) ,Laptop
+Dell,XPS,Intel Core i9 Processor (9th Gen),32 GB DDR4 ,64 bit Windows 10,1 TB SSD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Apple,MacBook Pro,Intel Core m3 Processor (7th Gen),8 GB DDR3 ,64 bit Mac,256 GB SSD,30.48 cm (12 inch) ,Laptop
+Nexstgo,Nexstgo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Dell,Inspiron,AMD APU Dual Core A6 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,AMD APU Quad Core A12 Processor,8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (10th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Asus,Vivo,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Aspire,Intel Core i5 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Lenovo,Yoga,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) Touchscreen ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,ZenBook,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Microsoft,Surface,Intel Core i7 Processor (7th Gen),16 GB DDR3 ,64 bit Windows 10,512 GB SSD,34.29 cm (13.5 inch) Touchscreen ,Laptop
+Lenovo,Legion,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,2 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Vostro,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,Linux/Ubuntu,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Notebook,Intel Core i3 Processor (4th Gen),4 GB DDR3 ,64 bit Windows 8.1,500 GB HDD,35.2 cm (13.86 inch) ,Laptop
+HP,Zbook,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+Microsoft,SurfacePro,Intel Core i7 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,31.24 cm (12.3 inch) Touchscreen ,Laptop
+Asus,ROG,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Vostro,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+HP,Pavilion,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Microsoft,SurfacePro,Intel Core i5 Processor (10th Gen),8 GB LPDDR4X ,64 bit Windows 10,256 GB SSD,31.24 cm (12.3 inch) Touchscreen ,Laptop
+Lenovo,ThinkPad Edge Series,AMD APU Dual Core A6 Processor,4 GB DDR4 ,64 bit Windows 10,500 GB HDD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Legion,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,ZenBook,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Endl,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,EliteBook,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Predator,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,XPS,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Asus,ZenBook,Intel Core i7 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Dell,Vostro,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,Linux/Ubuntu,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Asus,TUF Gaming,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD,43.94 cm (17.3 inch) ,Laptop
+Acer,Nitro,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Zbook,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,Windows 10,1 TB HDD|512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivobook,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Predator,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Precision,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Acer,Packard Bell,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Zbook,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Predator,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,43.94 cm (17.3 inch) ,Laptop
+HP,Notebook,Intel Core i3 Processor (5th Gen),4 GB DDR3 ,D,500 GB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Asus,ROG,AMD Ryzen 7 Quad Core Processor,16 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Notebook,Intel Pentium Gold Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,ROG,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Predator,Intel Core i5 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Nitro,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Envy,AMD Ryzen 5 Dual Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) Touchscreen ,Laptop
+Apple,MacBook Pro,Intel Core i9 Processor (8th Gen),16 GB DDR3 ,Mac,512 GB SSD,39.12 cm (15.4 inch) ,Laptop
+Asus,TUF Gaming,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,D,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Legion,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,AMD APU Quad Core A12 Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (7th Gen),8 GB DDR3 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Notebook,Intel Celeron Dual Core Processor,4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+MSI,Modern,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (7th Gen),8 GB DDR3 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Dell,Inspiron,Intel Core i5 Processor (10th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,ROG,Intel Core i3 Processor (10th Gen),4 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Microsoft,SurfacePro,Intel Core i3 Processor (10th Gen),4 GB LPDDR4X ,64 bit Windows 10,128 GB SSD,31.24 cm (12.3 inch) Touchscreen ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Acer,Predator,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (6th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Asus,Vivo,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,ProBook,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Alienware,Alienware,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|512 GB SSD,43.94 cm (17.3 inch) ,Laptop
+Alienware,Alienware,Intel Core i9 Processor (8th Gen),32 GB DDR4 ,64 bit Windows 10,1 TB HDD|1 TB SSD,39.62 cm (15.6 inch) ,Laptop
+Alienware,Alienware,Intel Core i9 Processor (8th Gen),32 GB DDR4 ,64 bit Windows 10,1 TB HDD|1 TB SSD,43.94 cm (17.3 inch) ,Laptop
+Asus,ZenBook,Intel Core i7 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,2 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,AMD Ryzen 5 Quad Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Microsoft,SurfacePro,Intel Core i5 Processor (7th Gen),8 GB DDR3 ,64 bit Windows 10,128 GB SSD,31.24 cm (12.3 inch) Touchscreen ,Laptop
+Asus,Vivo,Intel Core i3 Processor (10th Gen),4 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i7 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i7 Processor (7th Gen),16 GB DDR3 ,64 bit Mac,512 GB SSD,39.12 cm (15.4 inch) ,Laptop
+Asus,ROG,Intel Core i7 Processor (9th Gen),24 GB DDR4 ,64 bit Windows 10,1 TB SSD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Pro,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Mac,512 GB SSD,39.12 cm (15.4 inch) ,Laptop
+Acer,Nitro,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,2 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+MSI,Modern,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,EliteBook,Intel Pentium Gold Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+MSI,Gaming,AMD Ryzen 7 Quad Core Processor,16 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Lenovo,Ideapad,Intel APU Quad Core A6 Processor (9th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Asus,Vivo,Intel Pentium Gold Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Acer,Predator,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Acer,Aspire,Intel Celeron Dual Core Processor,2 GB DDR3 ,64 bit Windows 10,500 GB HDD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,AMD Ryzen 5 Quad Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Vostro,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,EliteBook,AMD APU Dual Core A6 Processor,4 GB DDR4 ,D,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Avita,Liber,Intel Core i3 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,128 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+MSI,Gaming,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,G,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i3 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,128 GB SSD,35.56 cm (14 inch) ,Laptop
+Acer,Predator,Intel Core i7 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,2 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (9th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Acer,Aspire,Intel Pentium Quad Core Processor,4 GB DDR4 ,64 bit Windows 10,500 GB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,ProBook,AMD Ryzen 3 Dual Core Processor,4 GB DDR4 ,D,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+HP,Notebook,Intel Core i5 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Avita,Liber,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (10th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) ,Laptop
+Dell,Vostro,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,Linux/Ubuntu,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Dell,Inspiron,Intel Core i7 Processor (9th Gen),16 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Asus,Vivo,AMD APU Quad Core A12 Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,AMD Ryzen 5 Quad Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Zbook,Intel Celeron Dual Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,AMD APU Dual Core A6 Processor,4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,G,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Acer,Predator,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Smartron,t-book,Intel Core i5 Processor (7th Gen),4 GB DDR3 ,64 bit Windows 10,128 GB SSD,30.99 cm (12.2 inch) Touchscreen ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Acer,Aspire,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,AMD APU Dual Core A9 Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,ZenBook,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,Mac,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Dell,Inspiron,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|8 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Dell,Inspiron,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+HP,Notebook,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,D,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) Touchscreen ,Laptop
+Avita,Liber,Intel Core i5 Processor (7th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,35.56 cm (14 inch) ,Laptop
+Dell,Inspiron,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+Dell,Vostro,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,Linux/Ubuntu,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,ROG,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,TUF Gaming,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,ZenBook,AMD Ryzen 5 Quad Core Processor (2nd Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Dell,G,Intel Core i5 Processor (4th Gen),4 GB DDR3 ,64 bit Windows 8.1,1 TB HDD,35.2 cm (13.86 inch) ,Laptop
+Dell,G,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,2 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivobook,AMD Ryzen 5 Quad Core Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Envy,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+HP,Envy,Intel Core i7 Processor (10th Gen),16 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+Dell,XPS,Intel Core i5 Processor (7th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Apple,MacBook Air,Intel Core i5 Processor (5th Gen),8 GB ,Mac,128 GB SSD,33.78 cm (13.3 inch) ,Laptop
+Dell,Inspiron,AMD Ryzen 3 Quad Core Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i7 Processor (9th Gen),12 GB DDR4 ,64 bit Windows 10,1 TB HDD|512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,2 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i7 Processor (9th Gen),12 GB DDR4 ,64 bit Windows 10,1 TB HDD|512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,35.56 cm (14 inch) ,Laptop
+Acer,Aspire,Intel Core i5 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,2 TB HDD|128 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Asus,ZenBook,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Pentium Quad Core Processor,4 GB DDR3 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Envy,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,2 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,ThinkPad X Series,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,500 GB HDD,35.56 cm (14 inch) ,Laptop
+AGB,Orion,Intel Core i7 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|512 GB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (7th Gen),4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Zbook,Intel Core i5 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Envy,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,2 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD|8 GB SSD,35.56 cm (14 inch) Touchscreen ,Laptop
+Asus,ZenBook,Intel Core i7 Processor (10th Gen),16 GB DDR3 ,64 bit Windows 10,1 TB SSD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i3 Processor (7th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Envy,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Microsoft,SurfacePro,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,128 GB SSD,31.24 cm (12.3 inch) Touchscreen ,Laptop
+Asus,Vivo,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,XPS,Intel Core i5 Processor (8th Gen),8 GB DDR3 ,64 bit Windows 10,256 GB SSD,33.02 cm (13 inch) ,Laptop
+Asus,ZenBook,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,EliteBook,Intel Core i7 Processor (10th Gen),16 GB DDR4 ,64 bit Windows 10,512 GB SSD,39.62 cm (15.6 inch) Touchscreen ,Laptop
+Dell,XPS,Intel Core i3 Processor (8th Gen),8 GB DDR4 ,64 bit Linux/Ubuntu,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,EliteBook,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Windows 10,512 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit D,1 TB HDD,35.56 cm (14 inch) ,Laptop
+HP,ProBook,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,256 GB SSD,33.78 cm (13.3 inch) Touchscreen ,Laptop
+Acer,Aspire,AMD APU Dual Core A4 Processor,4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Vostro,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Acer,Aspire,AMD APU Dual Core A4 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD|8 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Vostro,Intel Core i3 Processor (6th Gen),4 GB DDR3 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Pavilion,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Asus,Vivo,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,64 bit D,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Acer,Aspire,Intel Core i5 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+HP,Zbook,Intel Core i7 Processor (8th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|256 GB SSD,39.62 cm (15.6 inch) ,Laptop
+Dell,Vostro,Intel Core i5 Processor (8th Gen),4 GB DDR4 ,Linux/Ubuntu,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Dell,Inspiron,AMD Ryzen 5 Quad Core Processor,8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (8th Gen),4 GB DDR4 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+AGB,Orion,Intel Core i7 Processor (7th Gen),16 GB DDR4 ,64 bit Windows 10,1 TB HDD|1 TB SSD,35.56 cm (14 inch) ,Laptop
+Lenovo,ThinkPad L Series,Intel Core i5 Processor (4th Gen),4 GB DDR3 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i5 Processor (6th Gen),4 GB DDR3 ,64 bit Windows 10,1 TB HDD,35.56 cm (14 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i7 Processor (8th Gen),8 GB DDR4 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,AMD APU Quad Core A6 Processor,4 GB DDR3 ,64 bit Windows 10,1 TB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Legion,Intel Pentium Quad Core Processor (4th Gen),4 GB DDR3 ,D,500 GB HDD,39.62 cm (15.6 inch) ,Laptop
+Lenovo,Ideapad,Intel Core i3 Processor (7th Gen),4 GB DDR4 ,D,1 TB HDD,39.62 cm (15.6 inch) ,Laptop

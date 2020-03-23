@@ -1,0 +1,96 @@
+{"ProdName": "ProdName", "Annotations": "Annotations"}
+{"ProdName": "1.5 TB Seagate USB 3.0 USB 2.0 HardDisk Portable Hard Drive", "Annotations": "[(0, 6, 'Capacity'), (7, 14, 'Brand'), (15, 30, 'Connectivity'), (31, 39, 'Category'), (40, 59, 'Type')]"}
+{"ProdName": "USB 2.0 USB 3.0 HardDisk WD Portable Hard Drive 1 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 24, 'Category'), (25, 27, 'Brand'), (28, 47, 'Type'), (48, 52, 'Capacity')]"}
+{"ProdName": "USB 3.0 USB 2.0 Portable Hard Drive HardDisk WD 1 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 35, 'Type'), (36, 44, 'Category'), (45, 47, 'Brand'), (48, 52, 'Capacity')]"}
+{"ProdName": "HardDisk USB 3.0 USB 2.0 Portable Hard Drive Seagate 1 TB", "Annotations": "[(0, 8, 'Category'), (9, 24, 'Connectivity'), (25, 44, 'Type'), (45, 52, 'Brand'), (53, 57, 'Capacity')]"}
+{"ProdName": "USB 3.0 USB 2.0 HardDisk Seagate Portable Hard Drive 1 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 24, 'Category'), (25, 32, 'Brand'), (33, 52, 'Type'), (53, 57, 'Capacity')]"}
+{"ProdName": "HardDisk WD Portable Hard Drive USB 2.0 USB 3.0 2 TB", "Annotations": "[(0, 8, 'Category'), (9, 11, 'Brand'), (12, 31, 'Type'), (32, 47, 'Connectivity'), (48, 52, 'Capacity')]"}
+{"ProdName": "Portable Hard Drive HardDisk Seagate USB 3.0 USB 2.0 1 TB", "Annotations": "[(0, 19, 'Type'), (20, 28, 'Category'), (29, 36, 'Brand'), (37, 52, 'Connectivity'), (53, 57, 'Capacity')]"}
+{"ProdName": "2 TB HardDisk Seagate USB 3.0 USB 2.0 Portable Hard Drive", "Annotations": "[(0, 4, 'Capacity'), (5, 13, 'Category'), (14, 21, 'Brand'), (22, 37, 'Connectivity'), (38, 57, 'Type')]"}
+{"ProdName": "Portable Hard Drive USB 2.0 USB 3.0 Toshiba HardDisk 4 TB", "Annotations": "[(0, 19, 'Type'), (20, 35, 'Connectivity'), (36, 43, 'Brand'), (44, 52, 'Category'), (53, 57, 'Capacity')]"}
+{"ProdName": "USB 3.0 USB 2.0 Portable Hard Drive HardDisk Seagate 2 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 35, 'Type'), (36, 44, 'Category'), (45, 52, 'Brand'), (53, 57, 'Capacity')]"}
+{"ProdName": "WD HardDisk 2 TB Portable Hard Drive USB 3.0 USB 2.0", "Annotations": "[(0, 2, 'Brand'), (3, 11, 'Category'), (12, 16, 'Capacity'), (17, 36, 'Type'), (37, 52, 'Connectivity')]"}
+{"ProdName": "USB 3.0 USB 2.0 HardDisk Seagate Portable Hard Drive 1 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 24, 'Category'), (25, 32, 'Brand'), (33, 52, 'Type'), (53, 57, 'Capacity')]"}
+{"ProdName": "USB 3.0 USB 2.0 Portable Hard Drive HardDisk Lenovo 1 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 35, 'Type'), (36, 44, 'Category'), (45, 51, 'Brand'), (52, 56, 'Capacity')]"}
+{"ProdName": "2 TB Seagate USB 3.0 USB 2.0 Portable Hard Drive HardDisk", "Annotations": "[(0, 4, 'Capacity'), (5, 12, 'Brand'), (13, 28, 'Connectivity'), (29, 48, 'Type'), (49, 57, 'Category')]"}
+{"ProdName": "Portable Hard Drive USB 3.0 USB 2.0 HardDisk Seagate 2 TB", "Annotations": "[(0, 19, 'Type'), (20, 35, 'Connectivity'), (36, 44, 'Category'), (45, 52, 'Brand'), (53, 57, 'Capacity')]"}
+{"ProdName": "USB 3.0 USB 2.0 Seagate HardDisk Portable Hard Drive 2 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 23, 'Brand'), (24, 32, 'Category'), (33, 52, 'Type'), (53, 57, 'Capacity')]"}
+{"ProdName": "Seagate 1 TB HardDisk Portable Hard Drive USB 3.0 USB 2.0", "Annotations": "[(0, 7, 'Brand'), (8, 12, 'Capacity'), (13, 21, 'Category'), (22, 41, 'Type'), (42, 57, 'Connectivity')]"}
+{"ProdName": "Seagate USB 2.0 USB 3.0 500 GB HardDisk Portable Hard Drive", "Annotations": "[(0, 7, 'Brand'), (8, 23, 'Connectivity'), (24, 30, 'Capacity'), (31, 39, 'Category'), (40, 59, 'Type')]"}
+{"ProdName": "Seagate HardDisk Portable Hard Drive USB 2.0 USB 3.0 500 GB", "Annotations": "[(0, 7, 'Brand'), (8, 16, 'Category'), (17, 36, 'Type'), (37, 52, 'Connectivity'), (53, 59, 'Capacity')]"}
+{"ProdName": "Seagate Portable Hard Drive 5 TB HardDisk USB 3.0 USB 2.0", "Annotations": "[(0, 7, 'Brand'), (8, 27, 'Type'), (28, 32, 'Capacity'), (33, 41, 'Category'), (42, 57, 'Connectivity')]"}
+{"ProdName": "USB 3.0 USB 2.0 Portable Hard Drive 1.5 TB HardDisk Seagate", "Annotations": "[(0, 15, 'Connectivity'), (16, 35, 'Type'), (36, 42, 'Capacity'), (43, 51, 'Category'), (52, 59, 'Brand')]"}
+{"ProdName": "1 TB Portable Hard Drive WD HardDisk USB 2.0 USB 3.0", "Annotations": "[(0, 4, 'Capacity'), (5, 24, 'Type'), (25, 27, 'Brand'), (28, 36, 'Category'), (37, 52, 'Connectivity')]"}
+{"ProdName": "USB 3.0 USB 2.0 WD Portable Hard Drive 1 TB HardDisk", "Annotations": "[(0, 15, 'Connectivity'), (16, 18, 'Brand'), (19, 38, 'Type'), (39, 43, 'Capacity'), (44, 52, 'Category')]"}
+{"ProdName": "Seagate 1 TB Portable Hard Drive HardDisk USB 3.0 USB 2.0", "Annotations": "[(0, 7, 'Brand'), (8, 12, 'Capacity'), (13, 32, 'Type'), (33, 41, 'Category'), (42, 57, 'Connectivity')]"}
+{"ProdName": "1 TB HardDisk Seagate Portable Hard Drive USB 3.0 USB 2.0", "Annotations": "[(0, 4, 'Capacity'), (5, 13, 'Category'), (14, 21, 'Brand'), (22, 41, 'Type'), (42, 57, 'Connectivity')]"}
+{"ProdName": "HardDisk WD 2 TB Portable Hard Drive USB 2.0 USB 3.0", "Annotations": "[(0, 8, 'Category'), (9, 11, 'Brand'), (12, 16, 'Capacity'), (17, 36, 'Type'), (37, 52, 'Connectivity')]"}
+{"ProdName": "Portable Hard Drive Seagate HardDisk 1 TB USB 3.0 USB 2.0", "Annotations": "[(0, 19, 'Type'), (20, 27, 'Brand'), (28, 36, 'Category'), (37, 41, 'Capacity'), (42, 57, 'Connectivity')]"}
+{"ProdName": "USB 3.0 USB 2.0 2 TB Seagate Portable Hard Drive HardDisk", "Annotations": "[(0, 15, 'Connectivity'), (16, 20, 'Capacity'), (21, 28, 'Brand'), (29, 48, 'Type'), (49, 57, 'Category')]"}
+{"ProdName": "Portable Hard Drive HardDisk USB 2.0 USB 3.0 4 TB Toshiba", "Annotations": "[(0, 19, 'Type'), (20, 28, 'Category'), (29, 44, 'Connectivity'), (45, 49, 'Capacity'), (50, 57, 'Brand')]"}
+{"ProdName": "Portable Hard Drive HardDisk 2 TB Seagate USB 3.0 USB 2.0", "Annotations": "[(0, 19, 'Type'), (20, 28, 'Category'), (29, 33, 'Capacity'), (34, 41, 'Brand'), (42, 57, 'Connectivity')]"}
+{"ProdName": "Portable Hard Drive USB 3.0 USB 2.0 WD 2 TB HardDisk", "Annotations": "[(0, 19, 'Type'), (20, 35, 'Connectivity'), (36, 38, 'Brand'), (39, 43, 'Capacity'), (44, 52, 'Category')]"}
+{"ProdName": "USB 3.0 USB 2.0 HardDisk Seagate Portable Hard Drive 1 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 24, 'Category'), (25, 32, 'Brand'), (33, 52, 'Type'), (53, 57, 'Capacity')]"}
+{"ProdName": "Lenovo USB 3.0 USB 2.0 1 TB Portable Hard Drive HardDisk", "Annotations": "[(0, 6, 'Brand'), (7, 22, 'Connectivity'), (23, 27, 'Capacity'), (28, 47, 'Type'), (48, 56, 'Category')]"}
+{"ProdName": "2 TB Portable Hard Drive Seagate HardDisk USB 3.0 USB 2.0", "Annotations": "[(0, 4, 'Capacity'), (5, 24, 'Type'), (25, 32, 'Brand'), (33, 41, 'Category'), (42, 57, 'Connectivity')]"}
+{"ProdName": "HardDisk USB 3.0 USB 2.0 Seagate Portable Hard Drive 2 TB", "Annotations": "[(0, 8, 'Category'), (9, 24, 'Connectivity'), (25, 32, 'Brand'), (33, 52, 'Type'), (53, 57, 'Capacity')]"}
+{"ProdName": "Portable Hard Drive USB 3.0 USB 2.0 HardDisk Seagate 2 TB", "Annotations": "[(0, 19, 'Type'), (20, 35, 'Connectivity'), (36, 44, 'Category'), (45, 52, 'Brand'), (53, 57, 'Capacity')]"}
+{"ProdName": "HardDisk Portable Hard Drive 1 TB Seagate USB 3.0 USB 2.0", "Annotations": "[(0, 8, 'Category'), (9, 28, 'Type'), (29, 33, 'Capacity'), (34, 41, 'Brand'), (42, 57, 'Connectivity')]"}
+{"ProdName": "Seagate USB 2.0 USB 3.0 HardDisk Portable Hard Drive 500 GB", "Annotations": "[(0, 7, 'Brand'), (8, 23, 'Connectivity'), (24, 32, 'Category'), (33, 52, 'Type'), (53, 59, 'Capacity')]"}
+{"ProdName": "Seagate 500 GB HardDisk USB 2.0 USB 3.0 Portable Hard Drive", "Annotations": "[(0, 7, 'Brand'), (8, 14, 'Capacity'), (15, 23, 'Category'), (24, 39, 'Connectivity'), (40, 59, 'Type')]"}
+{"ProdName": "Seagate USB 3.0 USB 2.0 Portable Hard Drive HardDisk 5 TB", "Annotations": "[(0, 7, 'Brand'), (8, 23, 'Connectivity'), (24, 43, 'Type'), (44, 52, 'Category'), (53, 57, 'Capacity')]"}
+{"ProdName": "HardDisk Portable Hard Drive 1 TB USB 3.0 USB 2.0 Seagate", "Annotations": "[(0, 8, 'Category'), (9, 28, 'Type'), (29, 33, 'Capacity'), (34, 49, 'Connectivity'), (50, 57, 'Brand')]"}
+{"ProdName": "Toshiba USB 2.0 USB 3.0 1 TB HardDisk Portable Hard Drive", "Annotations": "[(0, 7, 'Brand'), (8, 23, 'Connectivity'), (24, 28, 'Capacity'), (29, 37, 'Category'), (38, 57, 'Type')]"}
+{"ProdName": "USB 3.0 Portable Hard Drive HardDisk 1 TB WD", "Annotations": "[(0, 7, 'Connectivity'), (8, 27, 'Type'), (28, 36, 'Category'), (37, 41, 'Capacity'), (42, 44, 'Brand')]"}
+{"ProdName": "USB 3.0 USB 2.0 Lenovo HardDisk 2 TB Portable Hard Drive", "Annotations": "[(0, 15, 'Connectivity'), (16, 22, 'Brand'), (23, 31, 'Category'), (32, 36, 'Capacity'), (37, 56, 'Type')]"}
+{"ProdName": "3 TB USB 2.0 USB 3.0 Seagate Portable Hard Drive HardDisk", "Annotations": "[(0, 4, 'Capacity'), (5, 20, 'Connectivity'), (21, 28, 'Brand'), (29, 48, 'Type'), (49, 57, 'Category')]"}
+{"ProdName": "Portable Hard Drive HardDisk 5 TB Seagate USB 3.0 USB 2.0", "Annotations": "[(0, 19, 'Type'), (20, 28, 'Category'), (29, 33, 'Capacity'), (34, 41, 'Brand'), (42, 57, 'Connectivity')]"}
+{"ProdName": "500 GB USB 2.0 USB 3.0 Seagate HardDisk Portable Hard Drive", "Annotations": "[(0, 6, 'Capacity'), (7, 22, 'Connectivity'), (23, 30, 'Brand'), (31, 39, 'Category'), (40, 59, 'Type')]"}
+{"ProdName": "USB 3.0 USB 2.0 HardDisk Portable Hard Drive 2 TB WD", "Annotations": "[(0, 15, 'Connectivity'), (16, 24, 'Category'), (25, 44, 'Type'), (45, 49, 'Capacity'), (50, 52, 'Brand')]"}
+{"ProdName": "Portable Hard Drive HardDisk 2 TB USB 3.0 USB 2.0 WD", "Annotations": "[(0, 19, 'Type'), (20, 28, 'Category'), (29, 33, 'Capacity'), (34, 49, 'Connectivity'), (50, 52, 'Brand')]"}
+{"ProdName": "Portable Hard Drive 250 GB USB 3.0 HardDisk TCOS", "Annotations": "[(0, 19, 'Type'), (20, 26, 'Capacity'), (27, 34, 'Connectivity'), (35, 43, 'Category'), (44, 48, 'Brand')]"}
+{"ProdName": "Portable Hard Drive HardDisk 1 TB WD USB 3.0 USB 2.0", "Annotations": "[(0, 19, 'Type'), (20, 28, 'Category'), (29, 33, 'Capacity'), (34, 36, 'Brand'), (37, 52, 'Connectivity')]"}
+{"ProdName": "500 GB SanDisk HardDisk Portable Hard Drive USB 3.1", "Annotations": "[(0, 6, 'Capacity'), (7, 14, 'Brand'), (15, 23, 'Category'), (24, 43, 'Type'), (44, 51, 'Connectivity')]"}
+{"ProdName": "2 TB USB 3.0 USB 2.0 HardDisk Portable Hard Drive Seagate", "Annotations": "[(0, 4, 'Capacity'), (5, 20, 'Connectivity'), (21, 29, 'Category'), (30, 49, 'Type'), (50, 57, 'Brand')]"}
+{"ProdName": "Portable Hard Drive SanDisk USB 3.1 1 TB HardDisk", "Annotations": "[(0, 19, 'Type'), (20, 27, 'Brand'), (28, 35, 'Connectivity'), (36, 40, 'Capacity'), (41, 49, 'Category')]"}
+{"ProdName": "Seagate 4 TB HardDisk Portable Hard Drive USB 3.0 USB 2.0", "Annotations": "[(0, 7, 'Brand'), (8, 12, 'Capacity'), (13, 21, 'Category'), (22, 41, 'Type'), (42, 57, 'Connectivity')]"}
+{"ProdName": "WD Portable Hard Drive USB 3.0 USB 3.1 USB 2.0 HardDisk 256 GB", "Annotations": "[(0, 2, 'Brand'), (3, 22, 'Type'), (23, 46, 'Connectivity'), (47, 55, 'Category'), (56, 62, 'Capacity')]"}
+{"ProdName": "1 TB Portable Hard Drive USB 3.1 HardDisk Samsung", "Annotations": "[(0, 4, 'Capacity'), (5, 24, 'Type'), (25, 32, 'Connectivity'), (33, 41, 'Category'), (42, 49, 'Brand')]"}
+{"ProdName": "Samsung HardDisk 1 TB USB 3.1 Portable Hard Drive", "Annotations": "[(0, 7, 'Brand'), (8, 16, 'Category'), (17, 21, 'Capacity'), (22, 29, 'Connectivity'), (30, 49, 'Type')]"}
+{"ProdName": "CONSISTENT HardDisk Portable Hard Drive USB 3.0 500 GB", "Annotations": "[(0, 10, 'Brand'), (11, 19, 'Category'), (20, 39, 'Type'), (40, 47, 'Connectivity'), (48, 54, 'Capacity')]"}
+{"ProdName": "Portable Hard Drive USB 3.1 ADATA 1 TB HardDisk", "Annotations": "[(0, 19, 'Type'), (20, 27, 'Connectivity'), (28, 33, 'Brand'), (34, 38, 'Capacity'), (39, 47, 'Category')]"}
+{"ProdName": "HardDisk WD Portable Hard Drive USB 3.0 USB 3.1 USB 2.0 1 TB", "Annotations": "[(0, 8, 'Category'), (9, 11, 'Brand'), (12, 31, 'Type'), (32, 55, 'Connectivity'), (56, 60, 'Capacity')]"}
+{"ProdName": "1 TB HardDisk Portable Hard Drive USB 3.0 Transcend", "Annotations": "[(0, 4, 'Capacity'), (5, 13, 'Category'), (14, 33, 'Type'), (34, 41, 'Connectivity'), (42, 51, 'Brand')]"}
+{"ProdName": "512 GB WD HardDisk Portable Hard Drive USB 3.0 USB 3.1 USB 2.0", "Annotations": "[(0, 6, 'Capacity'), (7, 9, 'Brand'), (10, 18, 'Category'), (19, 38, 'Type'), (39, 62, 'Connectivity')]"}
+{"ProdName": "2 TB Transcend Portable Hard Drive USB 3.1 HardDisk", "Annotations": "[(0, 4, 'Capacity'), (5, 14, 'Brand'), (15, 34, 'Type'), (35, 42, 'Connectivity'), (43, 51, 'Category')]"}
+{"ProdName": "WD 12 TB HardDisk USB 3.0 USB 3.1 Desktop Hard Drive", "Annotations": "[(0, 2, 'Brand'), (3, 8, 'Capacity'), (9, 17, 'Category'), (18, 33, 'Connectivity'), (34, 52, 'Type')]"}
+{"ProdName": "USB 3.1 Portable Hard Drive HardDisk 500 GB Samsung", "Annotations": "[(0, 7, 'Connectivity'), (8, 27, 'Type'), (28, 36, 'Category'), (37, 43, 'Capacity'), (44, 51, 'Brand')]"}
+{"ProdName": "HardDisk USB 3.0 TCOS 320 GB Portable Hard Drive", "Annotations": "[(0, 8, 'Category'), (9, 16, 'Connectivity'), (17, 21, 'Brand'), (22, 28, 'Capacity'), (29, 48, 'Type')]"}
+{"ProdName": "Seagate Portable Hard Drive 1 TB HardDisk USB 2.0 USB 3.0", "Annotations": "[(0, 7, 'Brand'), (8, 27, 'Type'), (28, 32, 'Capacity'), (33, 41, 'Category'), (42, 57, 'Connectivity')]"}
+{"ProdName": "512 GB ADATA USB 3.1 Portable Hard Drive HardDisk", "Annotations": "[(0, 6, 'Capacity'), (7, 12, 'Brand'), (13, 20, 'Connectivity'), (21, 40, 'Type'), (41, 49, 'Category')]"}
+{"ProdName": "Portable Hard Drive WD 1 TB USB 3.0 HardDisk", "Annotations": "[(0, 19, 'Type'), (20, 22, 'Brand'), (23, 27, 'Capacity'), (28, 35, 'Connectivity'), (36, 44, 'Category')]"}
+{"ProdName": "2 TB HardDisk USB 3.0 USB 2.0 Portable Hard Drive WD", "Annotations": "[(0, 4, 'Capacity'), (5, 13, 'Category'), (14, 29, 'Connectivity'), (30, 49, 'Type'), (50, 52, 'Brand')]"}
+{"ProdName": "TCOS USB 3.0 Portable Hard Drive HardDisk 250 GB", "Annotations": "[(0, 4, 'Brand'), (5, 12, 'Connectivity'), (13, 32, 'Type'), (33, 41, 'Category'), (42, 48, 'Capacity')]"}
+{"ProdName": "USB 2.0 1 TB ADATA Portable Hard Drive HardDisk", "Annotations": "[(0, 7, 'Connectivity'), (8, 12, 'Capacity'), (13, 18, 'Brand'), (19, 38, 'Type'), (39, 47, 'Category')]"}
+{"ProdName": "HardDisk 256 GB WD USB 3.0 USB 3.1 USB 2.0 Portable Hard Drive", "Annotations": "[(0, 8, 'Category'), (9, 15, 'Capacity'), (16, 18, 'Brand'), (19, 42, 'Connectivity'), (43, 62, 'Type')]"}
+{"ProdName": "Portable Hard Drive 2 TB Toshiba HardDisk USB 3.0 USB 2.0", "Annotations": "[(0, 19, 'Type'), (20, 24, 'Capacity'), (25, 32, 'Brand'), (33, 41, 'Category'), (42, 57, 'Connectivity')]"}
+{"ProdName": "Portable Hard Drive HardDisk WD USB 3.0 USB 3.1 USB 2.0 512 GB", "Annotations": "[(0, 19, 'Type'), (20, 28, 'Category'), (29, 31, 'Brand'), (32, 55, 'Connectivity'), (56, 62, 'Capacity')]"}
+{"ProdName": "USB 3.1 HardDisk 250 GB Portable Hard Drive SanDisk", "Annotations": "[(0, 7, 'Connectivity'), (8, 16, 'Category'), (17, 23, 'Capacity'), (24, 43, 'Type'), (44, 51, 'Brand')]"}
+{"ProdName": "USB 3.0 WD Desktop Hard Drive HardDisk 4 TB", "Annotations": "[(0, 7, 'Connectivity'), (8, 10, 'Brand'), (11, 29, 'Type'), (30, 38, 'Category'), (39, 43, 'Capacity')]"}
+{"ProdName": "USB 2.0 USB 3.0 WD Portable Hard Drive HardDisk 4 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 18, 'Brand'), (19, 38, 'Type'), (39, 47, 'Category'), (48, 52, 'Capacity')]"}
+{"ProdName": "USB 3.0 USB 2.0 WD Portable Hard Drive HardDisk 2 TB", "Annotations": "[(0, 15, 'Connectivity'), (16, 18, 'Brand'), (19, 38, 'Type'), (39, 47, 'Category'), (48, 52, 'Capacity')]"}
+{"ProdName": "5 TB USB 3.0 USB 2.0 Portable Hard Drive HardDisk Seagate", "Annotations": "[(0, 4, 'Capacity'), (5, 20, 'Connectivity'), (21, 40, 'Type'), (41, 49, 'Category'), (50, 57, 'Brand')]"}
+{"ProdName": "WD USB 3.0 USB 2.0 Portable Hard Drive 2 TB HardDisk", "Annotations": "[(0, 2, 'Brand'), (3, 18, 'Connectivity'), (19, 38, 'Type'), (39, 43, 'Capacity'), (44, 52, 'Category')]"}
+{"ProdName": "USB 2.0 USB 3.0 HardDisk Seagate 500 GB Portable Hard Drive", "Annotations": "[(0, 15, 'Connectivity'), (16, 24, 'Category'), (25, 32, 'Brand'), (33, 39, 'Capacity'), (40, 59, 'Type')]"}
+{"ProdName": "WD 4 TB USB 3.0 USB 2.0 Portable Hard Drive HardDisk", "Annotations": "[(0, 2, 'Brand'), (3, 7, 'Capacity'), (8, 23, 'Connectivity'), (24, 43, 'Type'), (44, 52, 'Category')]"}
+{"ProdName": "Portable Hard Drive HardDisk ADATA USB 3.1 512 GB", "Annotations": "[(0, 19, 'Type'), (20, 28, 'Category'), (29, 34, 'Brand'), (35, 42, 'Connectivity'), (43, 49, 'Capacity')]"}
+{"ProdName": "Portable Hard Drive USB 3.1 HardDisk 1 TB ADATA", "Annotations": "[(0, 19, 'Type'), (20, 27, 'Connectivity'), (28, 36, 'Category'), (37, 41, 'Capacity'), (42, 47, 'Brand')]"}
+{"ProdName": "2 TB USB 3.0 Transcend HardDisk Portable Hard Drive", "Annotations": "[(0, 4, 'Capacity'), (5, 12, 'Connectivity'), (13, 22, 'Brand'), (23, 31, 'Category'), (32, 51, 'Type')]"}
+{"ProdName": "HardDisk ADATA Portable Hard Drive 512 GB USB 3.1", "Annotations": "[(0, 8, 'Category'), (9, 14, 'Brand'), (15, 34, 'Type'), (35, 41, 'Capacity'), (42, 49, 'Connectivity')]"}
+{"ProdName": "HardDisk Portable Hard Drive USB 3.0 2 TB Toshiba", "Annotations": "[(0, 8, 'Category'), (9, 28, 'Type'), (29, 36, 'Connectivity'), (37, 41, 'Capacity'), (42, 49, 'Brand')]"}
+{"ProdName": "Portable Hard Drive 1 TB USB 3.1 ADATA HardDisk", "Annotations": "[(0, 19, 'Type'), (20, 24, 'Capacity'), (25, 32, 'Connectivity'), (33, 38, 'Brand'), (39, 47, 'Category')]"}
+{"ProdName": "USB 3.1 HardDisk Portable Hard Drive ADATA 256 GB", "Annotations": "[(0, 7, 'Connectivity'), (8, 16, 'Category'), (17, 36, 'Type'), (37, 42, 'Brand'), (43, 49, 'Capacity')]"}
+{"ProdName": "Sony HardDisk Portable Hard Drive 128 GB USB 3.0", "Annotations": "[(0, 4, 'Brand'), (5, 13, 'Category'), (14, 33, 'Type'), (34, 40, 'Capacity'), (41, 48, 'Connectivity')]"}
+{"ProdName": "USB 3.0 Verbatim 1 TB Portable Hard Drive HardDisk", "Annotations": "[(0, 7, 'Connectivity'), (8, 16, 'Brand'), (17, 21, 'Capacity'), (22, 41, 'Type'), (42, 50, 'Category')]"}
+{"ProdName": "USB 3.0 HardDisk ADATA 1 TB Portable Hard Drive", "Annotations": "[(0, 7, 'Connectivity'), (8, 16, 'Category'), (17, 22, 'Brand'), (23, 27, 'Capacity'), (28, 47, 'Type')]"}
+{"ProdName": "1 TB HardDisk WESTERN USB 3.0 Portable Hard Drive", "Annotations": "[(0, 4, 'Capacity'), (5, 13, 'Category'), (14, 21, 'Brand'), (22, 29, 'Connectivity'), (30, 49, 'Type')]"}
